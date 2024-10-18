@@ -110,7 +110,7 @@ const Home: NextPage = () => {
               <a href="https://scanner.github1.cloud/">اسکنر</a>
             </li>
             <li className="pull-left">
-              <a href="https://ircf.space/contacts.php">تماس‌باما</a>
+              <a href="https://ircf.space/contacts">تماس‌باما</a>
             </li>
           </ul>
           <div className="clearfix"></div>
@@ -361,14 +361,16 @@ const Home: NextPage = () => {
           <a href="https://github.com/kiomarzsss/kscanner" target="_blank">
             Kiomarzsss
           </a>
-          , IRCF, VahidFarid, goldSrc
+          , <a href="https://ircf.space" target="_blank">
+            IRCF
+          </a>, VahidFarid, goldSrc
           <br />
             <span dir="ltr" className={"starBtn"}>
                 <GitHubButton href="https://github.com/kiomarzsss/kscanner" data-color-scheme="no-preference: light; light: light; dark: dark;" data-icon="octicon-star" data-show-count="true" aria-label="Star kiomarzsss/kscanner on GitHub">Star</GitHubButton>
             </span>
           <br />
             <div className="text-center">
-                <a href="https://ircf.space/contacts.php" target="_blank" className="btn btn-link btn-normal btn-lg btn-outline donateLink">☕</a>
+                <a href="https://ircf.space/contacts" target="_blank" className="btn btn-link btn-normal btn-lg btn-outline donateLink">☕</a>
             </div>
         </footer>
       </div>
