@@ -370,7 +370,7 @@ const Home: NextPage = () => {
             </span>
           <br />
             <div className="text-center">
-                <a href="https://ircf.space/contacts" target="_blank" className="btn btn-link btn-normal btn-lg btn-outline donateLink">☕</a>
+                <a href="https://ircf.space/contacts#donate" target="_blank" className="btn btn-link btn-normal btn-lg btn-outline donateLink">☕</a>
             </div>
         </footer>
       </div>
